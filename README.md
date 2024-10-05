@@ -1,4 +1,4 @@
-# sudoku solver
+# Sudoku Solver Application
 I have created a comprehensive Sudoku Solver application using Java, incorporating DSA concepts like Backtracking and Hashing, alongside JavaFX for a user-friendly GUI. 
 I have utilized the Java Collection Framework and handled game data persistence through local storage. 
 Here's a quick overview of the components:
@@ -59,10 +59,10 @@ Use: Hashing can be employed to quickly check if a number has already been used 
 The Java Collection Framework provides a set of classes and interfaces that implement commonly reusable collection data structures, like lists, sets, and maps.
 Use: You might use collections such as HashSet to store and manage the numbers placed in rows, columns, and sub-grids, ensuring no duplicates are present.
 
-InputStreamReader and OutputStreamReader:
+## InputStreamReader and OutputStreamReader:
 InputStreamReader and OutputStreamReader are Java classes used to read and write data in character streams, bridging byte streams and character streams.
 Use: These classes can be used to handle input and output operations, such as reading a Sudoku puzzle from a file or user input, and displaying the solution.
 
-JavaFX-SDK GUI:
+## JavaFX-SDK GUI:
 JavaFX is a software platform used for creating and delivering desktop applications, as well as rich internet applications that can run across a wide variety of devices. JavaFX provides a set of graphics and media packages for creating visually rich user interfaces.
 Use: JavaFX-SDK is used to create a graphical user interface for the Sudoku solver, allowing users to interact with the application in a more intuitive and user-friendly way.
