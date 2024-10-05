@@ -1,6 +1,9 @@
 # Sudoku Solver Application
 I have created a comprehensive Sudoku Solver application using Java, incorporating DSA concepts like Backtracking and Hashing, alongside JavaFX for a user-friendly GUI. 
 I have utilized the Java Collection Framework and handled game data persistence through local storage. 
+
+![image](https://github.com/user-attachments/assets/c6bc2d7e-c53d-4610-b917-9eac42519725)
+
 Here's a quick overview of the components:
 
 ## SudokuBuildLogic Class
